@@ -1,7 +1,7 @@
 # DPFS_Aida_Lorenzo
 # Tienda de Ropa para Damas
 
-Bienvenidos a *[Elise Lourens]*, donde la moda y el estilo se combinan para ofrecer a nuestras clientas lo mejor en ropa femenina. En nuestra tienda, nos especializamos en ofrecer productos de alta calidad para todas las mujeres que buscan sentirse cómodas, elegantes y seguras de sí mismas.
+Bienvenidos a *Elise Lourens*, donde la moda y el estilo se combinan para ofrecer a nuestras clientas lo mejor en ropa femenina. En nuestra tienda, nos especializamos en ofrecer productos de alta calidad para todas las mujeres que buscan sentirse cómodas, elegantes y seguras de sí mismas.
 
 ## Servicios que ofrecemos
 
@@ -53,6 +53,6 @@ Lista de cinco sitios seleccionados como referencia en la moda femenina:
 
 ## Descripción Personal
 
-¡Hola! Soy [Aida Lorenzo],  Soy una persona sencilla, que valora la calma. Disfruto de las lecturas y pasar tiempo con mi Familia y la naturaleza. 
+¡Hola! Soy Aida Lorenzo,  Soy una persona sencilla, que valora la calma. Disfruto de las lecturas y pasar tiempo con mi Familia y la naturaleza. 
 
 ---
